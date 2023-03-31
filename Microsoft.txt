@@ -1,0 +1,4 @@
+vista-narrator-male
+ms-cortana
+xp-narrator
+xp-narrator
