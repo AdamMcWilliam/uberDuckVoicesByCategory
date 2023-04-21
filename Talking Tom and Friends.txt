@@ -2,7 +2,7 @@ talking-ben-2012
 talking-santa
 angela
 ben
-talking-tom
-talkingpierre
-talkinghank
 talking-ben
+talkinghank
+talkingpierre
+talking-tom

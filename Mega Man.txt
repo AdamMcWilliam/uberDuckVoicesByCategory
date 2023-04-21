@@ -12,7 +12,7 @@ bomb-man
 cut-man
 elec-man
 ice-man
-mega-man
 roll-mega-man
-dr-light
+mega-man
 dr-wily
+dr-light

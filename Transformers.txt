@@ -31,9 +31,9 @@ bumblebee-m
 optimus-prime
 tfp-ratchet
 starscream
-knockout
-skybolt
-bumblebee
+sunstreaker
+thundercracker
+trailbreaker
 grimlock
 shockwave
 optimus-prime-m
@@ -41,6 +41,6 @@ perceptor-m
 shockwave-m
 starscream-m
 tfp-ratchet-m
-sunstreaker
-thundercracker
-trailbreaker
+bumblebee
+skybolt
+knockout

@@ -1,8 +1,8 @@
-shrimp
-desmond
-alan-smiling-friends
-pim
-charlie-dompler
-mr-frog
-dj-spit
 advisor
+dj-spit
+mr-frog
+charlie-dompler
+pim
+alan-smiling-friends
+desmond
+shrimp

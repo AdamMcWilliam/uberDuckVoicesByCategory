@@ -10,10 +10,10 @@ boxy-boy
 prince-fleaswallow
 cheap-cheap
 hairdresser-octopus
-instructor-mooselini
-chop-chop-master-onion
-colonel-noodle
-captain-fussenpepper
 joe-chin
+captain-fussenpepper
+colonel-noodle
+chop-chop-master-onion
+instructor-mooselini
 parappa
 parappa

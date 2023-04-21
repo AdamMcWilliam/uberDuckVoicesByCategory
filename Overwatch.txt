@@ -5,7 +5,7 @@ dva
 baptiste
 ana
 zenyatta
-widowmaker
-reapergabereyes
-soldier-76
 tracer
+soldier-76
+reapergabereyes
+widowmaker

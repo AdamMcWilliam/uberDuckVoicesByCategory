@@ -1,8 +1,8 @@
-byakuya-togami
-kyoko-kirigiri
-hajime-hinata
-chiaki-nanami
-kaede-akamatsu
-monokuma
-shuichisaihara
 miu-iruma
+shuichisaihara
+monokuma
+kaede-akamatsu
+chiaki-nanami
+hajime-hinata
+kyoko-kirigiri
+byakuya-togami

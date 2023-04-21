@@ -8,8 +8,8 @@ zoog-disney
 moose-a-moose
 face-nickjr
 boomerang-announcer
-citv-announcer
-rorry-poptv
-disney_channel
-chiro-jetix
 chiro
+chiro-jetix
+disney_channel
+rorry-poptv
+citv-announcer

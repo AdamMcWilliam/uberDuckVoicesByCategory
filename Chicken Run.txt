@@ -1,3 +1,4 @@
+rocky-rhodes
 babs
 mr-tweedy
 mrs-tweedy
@@ -11,5 +12,4 @@ fetcher
 nick-chicken-run
 ginger
 bunty
-rocky-rhodes
 rocky-rhodes

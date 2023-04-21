@@ -38,8 +38,8 @@ mattholomule
 king-clawthorne
 king-clawthorne
 eda-clawthorne
-eda-clawthorne
-amity-blight
-bria-owl-house
 hooty
+bria-owl-house
+amity-blight
+eda-clawthorne
 willow-park

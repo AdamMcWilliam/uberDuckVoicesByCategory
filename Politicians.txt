@@ -1,3 +1,4 @@
+william-mckinley
 howard-taft
 john-mccain
 shinzo-ja
@@ -7,11 +8,11 @@ jimmy-carter
 richard-nixon
 ronald-reagan
 mahatma-gandhi
-fdr
 teddy-roosevelt
-ike
+fdr
 bill-clinton
 george-bush
 george-bush
 barack-obama
 barack-obama
+ike

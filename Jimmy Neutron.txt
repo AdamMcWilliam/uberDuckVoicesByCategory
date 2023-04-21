@@ -5,8 +5,8 @@ king-goobot-vg
 ooblar-vg
 jimmy-neutron
 goofyahh-jimmy
-jimmy-happyclone
 jimmy-romantic
+jimmy-happyclone
 jimmy-gloomygus
 jimmy-cool
 jimmy-evilclone
@@ -24,7 +24,7 @@ miss-fowl
 sheen-estevez
 carl-wheezer
 sheen-estevez
-cindy-vortex
-carl-wheezer
 jimmy-neutron
+carl-wheezer
+cindy-vortex
 hugh-neutron

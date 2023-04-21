@@ -9,9 +9,8 @@ roddy-st-james
 le-frog
 whitey
 spike-flushed-away
-le-frog
-the-toad
+flushed-away-sid
+flushed-away-sid
 rita-malone
-flushed-away-sid
-flushed-away-sid
-fa-game-sid
+the-toad
+le-frog

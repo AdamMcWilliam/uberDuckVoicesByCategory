@@ -10,6 +10,6 @@ papyrus
 sans
 fnf-bf
 ron
-ron
-little-man
 bob-fnf
+little-man
+ron

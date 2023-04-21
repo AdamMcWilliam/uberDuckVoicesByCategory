@@ -8,12 +8,12 @@ gordon-ramsay
 craig-ferguson
 dr-phil
 paula-deen
-bob-ross
-sir-david-attenborough
-ellen
-chris-hansen
 judge-judy
-mr-rogers
+chris-hansen
+ellen
+sir-david-attenborough
+bob-ross
 steve-irwin
 steve-irwin
 conan
+mr-rogers

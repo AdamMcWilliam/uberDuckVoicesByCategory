@@ -1,7 +1,7 @@
-zephyr
+water-whirl
+stone-stomper
 nimbus
 wind-warrior
 nimbus
-stone-stomper
-water-whirl
+zephyr
 zephyr

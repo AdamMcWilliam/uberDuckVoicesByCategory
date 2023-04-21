@@ -5,10 +5,10 @@ anakin-skywalker
 yoda
 yoda
 anakin-skywalker
-obi-wan-kenobi
 mandalorian
-vader
-general-grievous
+obi-wan-kenobi
 general-grievous
 droid
+general-grievous
 palpatine
+vader

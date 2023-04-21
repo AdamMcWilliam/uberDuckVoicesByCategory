@@ -14,9 +14,9 @@ homestar-runner-2001
 strong-bad-2001
 king-of-town
 marzipan
-strong-bad
-bubs
-homestar-runner
-coach-z
-strong-sad
 homsar
+strong-sad
+coach-z
+homestar-runner
+bubs
+strong-bad

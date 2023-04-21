@@ -2,5 +2,4 @@ smurfette
 papa-smurf
 papa-smurf
 gargamel
-grouchy-smurf
 clumsy-smurf

@@ -1,5 +1,5 @@
-bijou
-hamtaro-stan
-hamtaro-howdy
-hamtaro-howdy
 hamtaro-dexter
+hamtaro-howdy
+hamtaro-howdy
+hamtaro-stan
+bijou

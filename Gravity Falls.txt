@@ -1,5 +1,5 @@
 dipper-pines
-bill-cipher
-mabel-pines
-pacifica
 grunkle-stan
+pacifica
+mabel-pines
+bill-cipher

@@ -30,11 +30,11 @@ grigori-talknet
 isaac-kleiner
 eli-vance
 arne-magnusson
-half-life-scientist
-security-guard
-alyx-vance-hla
 half-life-transit-system
-hev-suit
-dr-richard-keller
+alyx-vance-hla
+security-guard
 half-life-scientist
 vox-announcer
+half-life-scientist
+dr-richard-keller
+hev-suit

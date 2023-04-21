@@ -24,7 +24,7 @@ kowalski-jeff-benett
 private-jps
 buck-rockgut
 alex-wally-wingert
-skipper-vg
-king-julien-dj
-king-julien-sbc
 gloria-bb
+king-julien-sbc
+king-julien-dj
+skipper-vg

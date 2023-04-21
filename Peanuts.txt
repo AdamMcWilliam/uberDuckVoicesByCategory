@@ -2,5 +2,5 @@ linus-van-pelt
 charlie-brown
 sally-brown-70s
 linus-van-pelt-70s
-lucy-van-pelt-snoopys-classiks-on-toys
 charlie-brown-snoopys-classiks-on-toys
+lucy-van-pelt-snoopys-classiks-on-toys

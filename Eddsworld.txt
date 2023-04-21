@@ -6,10 +6,10 @@ eddsworld-ell
 eduardo-con
 eduardo-bb
 eddsworld-jon
-eddsworld-tord
-eddsworld-tom
-eddsworld-matt
 eddsworld-edd
-classic-tord
-tord-larsson
+eddsworld-matt
+eddsworld-tom
+eddsworld-tord
 edd-gould
+tord-larsson
+classic-tord

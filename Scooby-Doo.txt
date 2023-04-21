@@ -1,8 +1,8 @@
 velma-linda-c
 shaggy-rogers-lillard
-shaggy
-fred-jones
-scooby-doo
-velma-bjward
-scrappy-doo
 phantom-virus
+scrappy-doo
+velma-bjward
+scooby-doo
+fred-jones
+shaggy

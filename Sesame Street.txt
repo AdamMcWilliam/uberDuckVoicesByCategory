@@ -1,3 +1,4 @@
+elmo
 bmebook
 rosita
 elmo
@@ -12,8 +13,8 @@ cookie-monster
 count-von-count
 cookie-monster-dr
 cookie-monster-dr
-oscar-the-grouch
-telly-monster-1983
 mumford
-big-bird
+telly-monster-1983
+oscar-the-grouch
 grover
+big-bird

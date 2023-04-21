@@ -1,3 +1,7 @@
+pokemon-johanna
+may-masters
+leaf-ssbu
+brock-br
 ash-ketchum-sn
 pokemon-cynthia
 pokemon-dawn
@@ -8,10 +12,8 @@ tracey-sketchit
 officer-jenny-lq
 gary-oak
 meowth-np
-jessie-team-rocket
 professor-oak
 meowth
-misty
 sonia-masters-ex
 meowth-masters-ex
 lyra-masters-ex
@@ -33,6 +35,5 @@ meowth
 professor-oak
 ash-ketchum
 pokemon-narrator
-misty
 pokemon-stadium-announcer
 red-ssbu

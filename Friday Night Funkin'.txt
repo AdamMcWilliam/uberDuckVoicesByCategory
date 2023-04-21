@@ -5,10 +5,10 @@ cj-fnf
 indie-cross-cuphead
 fnf-gf
 fnf-gf
-tankman
-tankman
-monster-fnf
 tabi
-pico
-eteled
+monster-fnf
+tankman
+tankman
 fleetway-super-sonic-fnf
+eteled
+pico

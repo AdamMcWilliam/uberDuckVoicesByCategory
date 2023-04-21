@@ -1,3 +1,4 @@
+quincy-btd6
 striker-jones
 harlegwen-bdt6
 gwendolin-btd6
@@ -19,4 +20,3 @@ mountain-guardian-obyn
 ocean-guardian-obyn
 obyn-greenfoot
 cyber-quincy
-quincy-btd6

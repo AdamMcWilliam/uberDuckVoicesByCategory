@@ -3,7 +3,7 @@ wolf-ssbb
 bill-grey
 rob-64
 general-pepper
-fox-mccloud
-falco-lombardi
-slippy-toad
 peppy-hare
+slippy-toad
+falco-lombardi
+fox-mccloud

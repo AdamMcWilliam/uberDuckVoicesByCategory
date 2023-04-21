@@ -1,9 +1,9 @@
 deepak-dalmatian
 dylan-dalmatian
-101-dalmatians-lucky
-101-dalmatians-lucky
-cadpig
-fergus-fox
-dolly-dalmatian
 101-dalmatians-rolly
 da-vinci-dalmatian
+dolly-dalmatian
+fergus-fox
+cadpig
+101-dalmatians-lucky
+101-dalmatians-lucky

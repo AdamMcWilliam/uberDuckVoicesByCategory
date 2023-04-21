@@ -2,11 +2,11 @@ mickey-mouse
 mickey-mouse-bi
 max-goof-troop
 clarabelle-cow
-max-goof
-minnie-mouse
 donald-duck
-ludwig-von-drake
 daisy-duck
+ludwig-von-drake
 donald-duck
-oswald
+minnie-mouse
+max-goof
 mickey-mouse-bi
+oswald

@@ -1,11 +1,12 @@
+entrapta
 hordak
 shadow-weaver
 catra-applesauce
 adora
 mermista
 adora
-shadow-weaver
-glimmer
-glimmer
 seahawk
+glimmer
+glimmer
+shadow-weaver
 bow

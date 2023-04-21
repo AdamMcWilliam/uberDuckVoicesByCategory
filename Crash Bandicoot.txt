@@ -16,7 +16,7 @@ dr-neo-cortex-cb
 uka-uka
 aku-aku
 crunch-bandicoot-woc
-tawna
-nina-cortex
-pasadena-possum
 coco-bandicoot
+nina-cortex
+tawna
+pasadena-possum

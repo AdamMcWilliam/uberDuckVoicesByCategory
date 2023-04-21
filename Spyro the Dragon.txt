@@ -3,11 +3,11 @@ ripto
 jed
 zoe-spyro
 zoe-spyro
-hunter-the-cheetah
-elora
-moneybags
-electrolls
 gemcutters
-spyro-tk
+electrolls
+moneybags
+elora
+hunter-the-cheetah
 ripto
+spyro-tk
 sgt-byrd

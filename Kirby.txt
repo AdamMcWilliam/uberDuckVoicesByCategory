@@ -1,6 +1,6 @@
 meta-knight-smash-bros
-escargoon
-king-dedede
 kirby-tuff
+king-dedede
+escargoon
 kirby-tiff
 kirby-tiff

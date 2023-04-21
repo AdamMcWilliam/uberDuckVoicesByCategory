@@ -1,12 +1,8 @@
 too-tall
-mama-bear
-papa-bear
-brother-bear
 sister-bear
-captain-salt
-mr-barnacle
-cousin-fred
-farmer-ben
+brother-bear
+papa-bear
+mama-bear
 widder-jones
 art-drewbeary
 grumpy-grizzly
@@ -18,3 +14,7 @@ mayor-hoarce-j-honeypot
 professor-actual-factual
 mrs-grizzle
 smirk
+farmer-ben
+cousin-fred
+mr-barnacle
+captain-salt

@@ -1,3 +1,4 @@
+the-french-narrator
 glados-p2
 adventure-core
 curiosity-core
@@ -16,7 +17,7 @@ fact-core
 cake-core
 wheatley
 portal-announcer
-glados
 cave-johnson
-pr-announcer
+glados
 glados-p2-spanish
+pr-announcer

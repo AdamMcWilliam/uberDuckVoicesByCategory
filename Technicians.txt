@@ -5,11 +5,11 @@ satoru-iwata
 sean-murray
 reggie-fils-aime
 bill-gates
-steve-jobs
-elon-musk
-gaben
 rossmann
-mark-zuckerberg
-david-bazookie
-susanwabbajack
+gaben
+elon-musk
+steve-jobs
 bill-gates-1995
+susanwabbajack
+david-bazookie
+mark-zuckerberg

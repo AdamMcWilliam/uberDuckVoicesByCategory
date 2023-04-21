@@ -40,11 +40,11 @@ luigi
 peach64
 luigi
 waluigi-gcn
-captain-lou-albano
-mario-sports-mix
 mario
-toad
-weegee
+mario-sports-mix
+captain-lou-albano
+smm-edit
+smm-edit
 waluigi
-smm-edit
-smm-edit
+weegee
+toad

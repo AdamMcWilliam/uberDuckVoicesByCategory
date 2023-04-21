@@ -1,5 +1,5 @@
-brian-griffin
 bonnie-swanson
+brian-griffin
 cleveland-brown
 peter-griffin-classic
 stewie-griffin-current
@@ -8,11 +8,11 @@ stewie-griffin-classic
 peter-griffin-es
 peter-griffin
 lois-griffin
-peter-griffin
-meg-griffin
-quagmire
-joe-swanson
 cleveland-brown
-herbert-the-pervert
-chris-griffin
+joe-swanson
+quagmire
+meg-griffin
+peter-griffin
 peter-griffin-e
+chris-griffin
+herbert-the-pervert
